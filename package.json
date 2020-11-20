@@ -1,0 +1,23 @@
+{
+	"name": "testingjest",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --coverage"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/uimarshall/testing-Js-with-Jest.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/uimarshall/testing-Js-with-Jest/issues"
+	},
+	"homepage": "https://github.com/uimarshall/testing-Js-with-Jest#readme",
+	"devDependencies": {
+		"jest": "^26.6.3"
+	}
+}
